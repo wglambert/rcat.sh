@@ -1,6 +1,4 @@
 # rcat
-Recursive cat with filenames
-
-Preferred usage is as a shellscript
+Recursive cat or grep with filename headers
 
 usage: ./rcat.sh
